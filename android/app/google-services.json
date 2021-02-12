@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "187336919818",
+    "firebase_url": "https://white-noise-8639c.firebaseio.com",
+    "project_id": "white-noise-8639c",
+    "storage_bucket": "white-noise-8639c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187336919818:android:ef9da88eb0f6835aff88f3",
+        "android_client_info": {
+          "package_name": "com.keshab.WhiteNoise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187336919818-5gs2n2en4vmulrch1gpr2ju28m8835ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPlyysRxK_EvdHQKt8H94QYsk-wRMeFAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187336919818-5gs2n2en4vmulrch1gpr2ju28m8835ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
